@@ -1,4 +1,4 @@
-import { useNavigate, navigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 export default function Navbar() {
   const navigate = useNavigate();
   const removeUser = () => {
