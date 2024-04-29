@@ -14,5 +14,8 @@ export default {
       "5xl": "3.052rem",
     },
   },
+  daisyui: {
+    themes: ["light"],
+  },
   plugins: [daisyui],
 };
